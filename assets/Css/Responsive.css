@@ -232,7 +232,8 @@
         display: none;
     }
     .humburger.d-lg-none.d-block {
-        left: 400px;
+        left: 600px !important;
+        
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 940px) {
@@ -386,4 +387,4 @@
     .header-btn a {
         display: none;
     }
-}
+}   
