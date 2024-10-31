@@ -233,7 +233,6 @@
     }
     .humburger.d-lg-none.d-block {
         left: 600px !important;
-        
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 940px) {
@@ -338,7 +337,8 @@
         padding: 50px 0;
     }
     .humburger.d-lg-none.d-block {
-        left: 270px;
+        left: 269px !important;
+        
     }
 }
 @media only screen and (min-width: 100px) and (max-width: 450px) {
